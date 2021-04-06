@@ -7,6 +7,6 @@ $ qmake -makefile minsh.pro
 
 $ make
 
-./minsh
+$ ./minsh
 ```
 
